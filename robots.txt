@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrzerocrack.github.io/reference-5t7ddd/sitemap.xml
